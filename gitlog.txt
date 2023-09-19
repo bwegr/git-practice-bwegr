@@ -1,0 +1,10 @@
+38d9d4a Merge branch 'features'
+b9795a1 CHanging new features file
+42e30a0 Merge branch 'features'
+e4f4d52 added text to file_1.txt
+3c4bfd6 Added new features
+e6b1aef Adding .gitignore file
+84ffa27 Adding Readme.md file
+f73f09b adding text to file_2.txt
+3fd85e8 adding text to file_1.txt
+7ed170d create new files

@@ -1,0 +1,70 @@
+    4  C:/User/bwegr/Desktop/MBA/Courses/STAT 386 - Data Science Process/git_practice
+    5  "C:/User/bwegr/Desktop/MBA/Courses/STAT 386 - Data Science Process/git_practice"
+    9  cd "C:/Users/bwegr/Desktop/MBA/Courses/STAT 386 - Data Science Process/git_practice"
+   10  git init
+   14  git status
+   15  git add
+   16  git add .
+   17  git status
+   18  git commit . 'create new files'
+   19  git commit -m 'create new files'
+   20  git status
+   21  git log
+   22  git status
+   23  git add file_1.txt
+   24  git commit file_1.txt
+   25  git commit file_1.txt 'adding text'
+   26  git commit 'file_1,txt' 'adding text'
+   27  git status
+   28  git commit -m 'adding text to file_1.txt'
+   29  git status
+   30  git add file_2.txt
+   31  git commit -m 'adding text to file_2.txt'
+   32  git log
+   34  git commit -a -m 'Adding Readme file'
+   35  git add Readme.md
+   36  git commit -m 'Adding Readme.md file'
+   37  touch .gitignore
+   38  git commit -a -m 'adding .gitignore file'
+   39  git log
+   40  git add .gitignore
+   41  git status
+   42  git commit -m 'Adding .gitignore file'
+   44  git status
+   45  git add api-keys.txt
+   46  git status
+   47  git branch features
+   48  git switch features
+   49  git log
+   51  cd "C:/Users/bwegr/Desktop/MBA/Courses/STAT 386 - Data Science Process/git-practice"
+   52  git log
+   53  cd "C:/Users/bwegr/Desktop/MBA/Courses/STAT 386 - Data Science Process/git_practice"
+   54  git log
+   56  cd "C:/User/bwegr/Desktop/MBA/Courses/STAT 386 - Data Science Process/git_practice"
+   57  cd "C:/Users/bwegr/Desktop/MBA/Courses/STAT 386 - Data Science Process/git_practice"
+   59  git add new_features
+   60  git add new_features.txt
+   61  git commit -m 'Added new features'
+   62  git switch main
+   63  git add file_1.txt
+   64  git commit -m 'added text to file_1.txt'
+   65  git merge features
+   66  git log
+   67  git branch main
+   68  git switch features
+   69  git add new_features.txt
+   70  git commit -m 'CHanging new features file'
+   71  git switch main
+   72  git merge features
+   73  git add new_features.txt
+   74  git commit -m 'resolving conflict'
+   75  git branch -d features
+   76  git remote add origin https://github.com/bwegr/git-practice-bwegr.git
+   77  git branch -M main
+   78  git push -u origin main
+   79  cd "C:/Users/bwegr/Desktop/MBA/Courses/STAT 386 - Data Science Process/git_practice"
+   80  git remote add origin https://github.com/bwegr/git-practice-bwegr.git
+   81  git branch -M main
+   82  git push -u origin main
+   83  git log --oneline > gitlog.txt
+   84  history | grep git > history.txt
