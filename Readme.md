@@ -1,3 +1,3 @@
 ## Git Practice
 
-This is a repository to practice git with
+This is a repository to practice git
